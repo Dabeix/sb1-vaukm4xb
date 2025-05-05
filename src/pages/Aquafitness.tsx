@@ -26,7 +26,7 @@ const centers: Center[] = [
   {
     id: 'castelnau',
     name: 'CASTELNAU-LE-LEZ',
-    address: '1744 Avenue de l\'Europe, 34170 Castelnau-le-Lez',
+    address: 'aquabike castelnau',
     phone: '04 67 72 50 20',
     email: 'castelnau@aquabike-center.fr',
     schedules: [
