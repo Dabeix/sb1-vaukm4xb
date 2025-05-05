@@ -26,7 +26,7 @@ const centers: Center[] = [
   {
     id: 'castelnau',
     name: 'CASTELNAU-LE-LEZ',
-    address: 'aquabike castelnau',
+    address: 'aquabike castelnau test',
     phone: '04 67 72 50 20',
     email: 'castelnau@aquabike-center.fr',
     schedules: [
